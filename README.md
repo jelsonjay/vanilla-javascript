@@ -1,6 +1,6 @@
 # Basic Vanilla JavaScript & ES6
 
-There are so many good reasons for all developres use or learn JavaScript.
+There are so many good reasons for all developres use or learn the Modern JavaScript.
 
 1. It's is fast and lightweight
 2. It's better for performance
